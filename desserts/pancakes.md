@@ -22,7 +22,7 @@ You likely already have everything you need to make this pancake recipe. If not,
 · Milk and butter: Milk and butter add moisture and richness to the pancakes.
 · Egg: A whole egg lends even more moisture. Plus, it helps bind the pancake batter together.
 
-# How to Make Pancakes From Scratch
+# Instructions for how to Make Pancakes From Scratch
 
 It's not hard to make homemade pancakes — you just need a good recipe. That's where we come in! 
 You'll find the step-by-step recipe below, but here's a brief overview of what you can expect:

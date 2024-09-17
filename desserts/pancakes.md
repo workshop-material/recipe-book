@@ -11,7 +11,7 @@ kitchen (and it's so much better than the boxed stuff).
 You'll find a detailed ingredient list and step-by-step instructions in the recipe below, 
 but let's go over the basics:
 
-# Pancake Ingredients
+## Pancake Ingredients
 
 You likely already have everything you need to make this pancake recipe. If not, here's what to add to your grocery list:
 
@@ -22,7 +22,7 @@ You likely already have everything you need to make this pancake recipe. If not,
 · Milk and butter: Milk and butter add moisture and richness to the pancakes.
 · Egg: A whole egg lends even more moisture. Plus, it helps bind the pancake batter together.
 
-# Instructions for how to Make Pancakes From Scratch
+## Instructions for how to Make Pancakes From Scratch
 
 It's not hard to make homemade pancakes — you just need a good recipe. That's where we come in! 
 You'll find the step-by-step recipe below, but here's a brief overview of what you can expect:

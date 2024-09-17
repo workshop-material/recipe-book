@@ -3,7 +3,9 @@
 This fresh tzatziki recipe will liven up any summer meal! 
 Rich, creamy & full of fresh herbs, it's delicious on pita, grilled veggies, sandwiches, and more!
 
-# How to Make Tzatziki Sauce (Ingredients and Instructions)
+# How to Make Tzatziki Sauce 
+## Ingredients and 
+## Instructions
 
 I first started eating tzatziki sauce at Greek restaurants, 
 but I’ve since learned that it’s incredibly easy to whip up at home. Now, along with pesto,

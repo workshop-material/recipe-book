@@ -54,4 +54,5 @@
    - Serve warm and enjoy!
 
 ## Allergens 
-Gluten, eggs
+   - Gluten
+   - Eggs

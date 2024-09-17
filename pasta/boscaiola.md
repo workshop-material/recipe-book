@@ -15,4 +15,4 @@
 TODO: these are missing
 
 ## Allergens 
-Gluten
+- Gluten

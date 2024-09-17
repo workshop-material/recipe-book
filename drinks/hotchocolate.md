@@ -4,7 +4,7 @@
 
 - Chocolate 
 - Milk 
-- Sugarrrrrrrr
+- Sugar
 
 ## Instructions
 

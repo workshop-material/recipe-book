@@ -2,7 +2,7 @@
 ## Ingredients:
 
 
-    Roce: 1 cup (200g)
+    Rice: 1 cup (200g)
 
     Water: 2 cups (480ml)
 

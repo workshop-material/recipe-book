@@ -37,3 +37,6 @@
 
 5. **Serve:**
    - Enjoy the fruit salad as is, or chill it in the refrigerator for about an hour before serving for a refreshing treat.
+
+6. **Clean Up:**
+   - Remeber cleaning up the table and washing all the dishes afterwards.

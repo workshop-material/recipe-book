@@ -37,3 +37,6 @@
 
 4. **Serve:**
    - Serve the salad immediately, ensuring it's fresh and crisp.
+
+5. **Clean Up:**
+   - Remeber cleaning up the table and washing all the dishes afterwards.

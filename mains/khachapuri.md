@@ -2,6 +2,8 @@
 
 Khachapuri is a classic Georgian dish—a warm, cheesy bread that’s delicious and comforting. This recipe focuses on the **Adjarian Khachapuri**, which is boat-shaped and filled with cheese and topped with a runny egg.
 
+![blabla](../images/khachapuri.jpg)
+
 ---
 
 ## Ingredients

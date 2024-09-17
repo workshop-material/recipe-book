@@ -15,12 +15,13 @@ but let's go over the basics:
 
 You likely already have everything you need to make this pancake recipe. If not, here's what to add to your grocery list:
 
-· Flour: This homemade pancake recipe starts with all-purpose flour.
-· Baking powder: Baking powder, a leavener, is the secret to fluffy pancakes.
-· Sugar: Just a tablespoon of white sugar is all you'll need for subtly sweet pancakes.
-· Salt: A pinch of salt will enhance the overall flavor without making your pancakes taste salty.
-· Milk and butter: Milk and butter add moisture and richness to the pancakes.
-· Egg: A whole egg lends even more moisture. Plus, it helps bind the pancake batter together.
+· All- purpose flour: 1 cup
+· Baking powder: 1 tsp
+· Sugar: 1 tbsp
+· Salt: A pinch of salt 
+· Milk : 1 cup
+. Butter: 3 tbsp
+· Egg: 1
 
 ## Instructions 
 # How to Make Pancakes From Scratch

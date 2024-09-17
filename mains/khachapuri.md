@@ -4,7 +4,6 @@ Khachapuri is a classic Georgian dish—a warm, cheesy bread that’s delicious 
 
 ![blabla](../images/khachapuri.jpg)
 
----
 
 ## Ingredients
 

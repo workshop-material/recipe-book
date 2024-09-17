@@ -1,4 +1,4 @@
-# Vegetarian lasagna recipe
+# Fake chicken
 
 
 ## Ingredients
@@ -53,7 +53,5 @@
    - Garnish with fresh basil leaves if desired.
    - Serve warm and enjoy!
 
-## Allergens 
-   - **Gluten**
-   - **Egg**
 
+This is a receipt of fried chicken.

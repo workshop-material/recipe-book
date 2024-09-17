@@ -14,7 +14,7 @@
 
 ## Instructions
 
-Dice the onins and roast the on the oil of your choise at 1000 °C.
+Dice the onions and roast the on the oil of your choise at 1000 °C.
 
 When the onions are gold brown add the tomato sauce and some water to the onions. Add black pepper, salt and bay leaves by taste to season the sauce. Let the sauce stew at medium head for 20 minutes. At the end add the canned tuna to the sauce and stir it up. Let the sauce rest for 5 minutes.
 

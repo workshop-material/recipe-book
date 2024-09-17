@@ -1,4 +1,4 @@
-# rice
+# Rice 
 ## Ingredients:
 
 

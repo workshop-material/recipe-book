@@ -13,3 +13,6 @@
 ## Instructions
 
 TODO: these are missing
+
+## Allergens 
+Gluten

@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 8 oz (225 g) spaghetti or your favorite pasta
-- 4 tabespoons butter
+- 4 tablespoons butter
 - 4 cloves garlic, minced
 - 1/4 teaspoon red pepper flakes (optional)
 - Salt and pepper to taste

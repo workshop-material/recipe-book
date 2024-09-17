@@ -1,6 +1,6 @@
 # Benefits of cooking at hmoe
 
-We alllllllll love convenience food, but one of the simplest ways to improve your health is 
+We all love convenience food, but one of the simplest ways to improve your health is 
 by preparing more home-cooked meals. 
 
 # The pleasures of sharing a home-cooked meal

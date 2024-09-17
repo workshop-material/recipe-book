@@ -54,4 +54,5 @@
    - Serve warm and enjoy!
 
 7. **Allergens**
-   - To be included in future
+   - **Gluten**
+   - **Egg**

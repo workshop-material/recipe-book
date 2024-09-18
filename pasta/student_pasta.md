@@ -11,7 +11,6 @@
 - bay leaves
 - onions
 - olive oil/sunflower oil
-- garlic
 
 ## Instructions
 
